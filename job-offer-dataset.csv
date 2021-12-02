@@ -1,0 +1,15 @@
+﻿Age,Salary,Professional,Computer_Skill,Offer_Job
+Young,High,No,Fair,No
+Young,High,No,Excellent,No
+Middle,High,No,Fair,Yes
+Old,Medium,No,Fair,Yes
+Old,Low,Yes,Fair,Yes
+Old,Low,Yes,Excellent,No
+Middle,Low,Yes,Excellent,Yes
+Young,Medium,No,Fair,No
+Young,Low,Yes,Fair,Yes
+Old,Medium,Yes,Fair,Yes
+Young,Medium,Yes,Excellent,Yes
+Middle,Medium,No,Excellent,Yes
+Middle,High,Yes,Fair,Yes
+Old,Medium,No,Excellent,No
